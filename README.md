@@ -104,3 +104,16 @@ Se ejecutó exitosamente el comando `git commit -m "Sistema de recomendacion com
 
 Para concluir el proceso, se ejecutó `git push`. La terminal confirmó la escritura y transferencia de datos hacia la rama `main` del repositorio remoto `https://github.com/Matias541614/AI_Proyect_MA.git`, sincronizando de forma exitosa el entorno local con la nube.
 ![Paso 25](captura25.jpeg)
+---
+
+## Fase 7: Documentación y Evidencia Final
+Para finalizar el proyecto, se redactó este portafolio de evidencias dentro del archivo `README.md`, integrando las capturas de pantalla generadas durante la actividad para demostrar el paso a paso.
+
+Se utilizó el comando `git add .` para incluir todas las imágenes y las modificaciones del texto al área de preparación. Posteriormente, se ejecutó `git commit -m "Se agrega portafolio final con 25 capturas"` para registrar los nuevos archivos.
+![Paso 26](captura26.jpeg)
+
+Acto seguido, se ejecutó el comando `git push` para iniciar la transferencia de todos los archivos multimedia y el documento hacia el repositorio remoto.
+![Paso 27](captura27.jpeg)
+
+La terminal confirmó la compresión y subida del 100% de los objetos, sincronizando la rama principal y completando de manera definitiva la entrega del proyecto en GitHub.
+![Paso 28](captura28.jpeg)
